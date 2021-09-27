@@ -1,6 +1,6 @@
 {
-    "name": "eight_queens_game",
-    "short_name": "eight_queens_game",
+    "name": "El juego de las Ocho Reinas",
+    "short_name": "Ocho Reinas",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#44086A",
@@ -8,8 +8,8 @@
     "description": "♟ El juego de las ocho reinas online | Alejandro Ramos | @arhcoder",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
-    
-    "icons": [
+    "icons":
+    [
         {
             "src": "icons/Icon-192.png",
             "sizes": "192x192",
