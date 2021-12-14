@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  ".git/COMMIT_EDITMSG": "77266f697f4f45632a025e99a24edfed",
+  ".git/COMMIT_EDITMSG": "6fb36731382891d149e73bc58be1b7d4",
 ".git/config": "b936f7f31a9981d1f898571742a2dac7",
 ".git/description": "a0a7c3fff21f2aea3cfa1d0316dd816c",
 ".git/HEAD": "4cf2d64e44205fe628ddd534e1151b58",
@@ -20,11 +20,11 @@ const RESOURCES = {
 ".git/hooks/prepare-commit-msg.sample": "2b5c047bdb474555e1787db32b2d2fc5",
 ".git/hooks/push-to-checkout.sample": "c7ab00c7784efeadad3ae9b228d4b4db",
 ".git/hooks/update.sample": "647ae13c682f7827c22f5fc08a03674e",
-".git/index": "0db35455b72ad1d7740387b9b94de8f5",
+".git/index": "fe6bc4c4ed948700c7b4d511e8668c49",
 ".git/info/exclude": "036208b4a1ab4a235d75c181e685e5a3",
-".git/logs/HEAD": "2afd1c8b630f371aad3e43b97b5c57a1",
-".git/logs/refs/heads/master": "2afd1c8b630f371aad3e43b97b5c57a1",
-".git/logs/refs/remotes/origin/master": "0a528d277cd943b487303204c0848e2b",
+".git/logs/HEAD": "c1ebbb2f283b5c3ce99f4b8bf90a87ce",
+".git/logs/refs/heads/master": "c1ebbb2f283b5c3ce99f4b8bf90a87ce",
+".git/logs/refs/remotes/origin/master": "b6cde2b9430da69650646b3af45401e8",
 ".git/objects/09/422ca5fab03847b59e35bdb2b968debdbb2334": "885f25552f947d954ddccfc8402ef348",
 ".git/objects/0b/26872bb62b437e383202fb457b5b96703b3cf0": "550af1d13f39983711131b1f75f0ac39",
 ".git/objects/0b/5ed87fbab6fbf5acf4649539763130d7b18801": "cc23e9e18d8fdbcf2c6d316218648917",
@@ -34,7 +34,9 @@ const RESOURCES = {
 ".git/objects/20/5bb5db271c6d8de8399864c7bb9b917f638893": "c993b22f115d7f3ae6d5b7b212806539",
 ".git/objects/20/835a90a37474585b733f91066ad393cb064b09": "19c453793c5e5de7d425f19a9aa8a37e",
 ".git/objects/36/e389b1f2cc74ce5cd13de67df2464bdd7cb55a": "2dca5c9ecadd627ec626fa85cb6516b5",
+".git/objects/37/87cfd304f655016c33fba1b9af7f00aa1d6363": "ffa962f4ef050e56d690538aa5c71791",
 ".git/objects/37/c588bc34f684dd6924a4679616f30b796d3c80": "65d0bda8ce6d675f5c8e08a8cdb8fa0e",
+".git/objects/40/c786adfd0650fa7b69d77f7b22b58e3e655749": "3eb491ec366f35f87385b6eb6f28a2b0",
 ".git/objects/43/4f0b82853d5dee3cd12a77a21fc9ac7fa0c03e": "da8485967d28ab172810f3c5d4383c68",
 ".git/objects/43/dd750faf5092aca858ae96ec4abd919928f5eb": "f053c53c5f4493b94a742cd4b0fbc0c0",
 ".git/objects/46/4ab5882a2234c39b1a4dbad5feba0954478155": "2e52a767dc04391de7b4d0beb32e7fc4",
@@ -42,6 +44,7 @@ const RESOURCES = {
 ".git/objects/4f/9374ce08f3f47f9ee5d162725f47f75ded3fbd": "ee485ec9bca3b6bb43a2efa5f45ae007",
 ".git/objects/53/fc7b8ccf4b42730767c355a6b6e9a12b93d675": "d5d610ba8aae33ef8e986ace1253817b",
 ".git/objects/56/332bd65912d723f881d81cf66a6c9d05c93df2": "8506d8c19b5238b013ab46eb1acaf3ea",
+".git/objects/56/50a45c5293ff248be032b48e7bd2c3b51e7ae3": "3dc0c3b5ad1423e9b3b659f2c0860306",
 ".git/objects/59/747db7c2f69b0d16651cce8410acaf6af81bd1": "dfb7b00213e20515a852f9d882060956",
 ".git/objects/5a/1e6ab593c93f5a564cd052d363a33f5b8deaa2": "25cff1ae58d8d46f652c0918cb288c31",
 ".git/objects/5c/26f093a63926db6668b3b0dc3fbc66856352eb": "9054431aefe2ff82a602718bd0726bc6",
@@ -65,6 +68,7 @@ const RESOURCES = {
 ".git/objects/9c/766fa85950442ad7b599d6cd98b8bd34afa247": "5c31da723e46df7ccbee118c465e63d9",
 ".git/objects/a1/3837a12450aceaa5c8e807c32e781831d67a8f": "bfe4910ea01eb3d69e9520c3b42a0adf",
 ".git/objects/a8/3a17d54b6dc2156c855c6580301cefc9c8d017": "6525101be8d70b808a809af9c83fa4ad",
+".git/objects/aa/fb52304c6f16f789b3b9dc9e3135a819555db0": "51383515579dd3dec6bb146578c381d4",
 ".git/objects/ab/0e98497a51ead7821d1da35a24968ff314e50f": "557c35fe3928eb2af403d1b3926bb9ba",
 ".git/objects/ad/3a11a885f8e6c0f1628a8cfb78ced27dd6b765": "bb616b34f1f1120da826391ea15c6fe7",
 ".git/objects/af/b779d521599de353c58554118ce0fe44e6dd7e": "beb7409fa6ba8bd58bb057ea613c5305",
@@ -73,6 +77,7 @@ const RESOURCES = {
 ".git/objects/b3/755df1578e56866259e0196e9e24c0dbb6d616": "38a608141f4734e34b6573e98a74bb35",
 ".git/objects/b6/d1463f879c3f20ab6acec570088c7c322ff75d": "c9a513e8e6c7ceb238fa2dfd83beb997",
 ".git/objects/b7/49bfef07473333cf1dd31e9eed89862a5d52aa": "36b4020dca303986cad10924774fb5dc",
+".git/objects/bd/b350d61f285ba4695ef36269c7794143bbd453": "404796f6dae6c43580400255e90faf9f",
 ".git/objects/c0/a386544d18b1ce16eb47904d0d58c293ee17c2": "6cdf9744b30be97b782c66f834e17912",
 ".git/objects/c6/43b4be5de454e590491b94e9818386da11b2b9": "a6f84afa950ae5333a1af9b5336fa6e1",
 ".git/objects/c6/f4f70d9d3d68c43c08ec34a9316d8f757a0312": "d8218f82d9e58d310797e8e9a3f9e47c",
@@ -84,34 +89,40 @@ const RESOURCES = {
 ".git/objects/e6/51f514eb897c96c8d0cfb6dd92202de68bfa0e": "72f2996ef4861b5eaa88f96f45c2b253",
 ".git/objects/e8/33d91eb565da48e13d90d74ae1f72e20e668f6": "8e8b5f28289ed4423f065f778949382c",
 ".git/objects/e9/effa61fb35af537f127eda5c3a3a15d7a0c177": "3bb104b67ac8d6d164a5dea9a4aeb5c2",
+".git/objects/eb/0afcc6e20ff3c8176d98b1202a7a5e1e6b27b8": "9d4f81d498fa485e9510c6ad805d635d",
 ".git/objects/ed/fc3aac07e23cb95b5b40e33ed0b35f93410c6d": "d867bf3b14bfd851bc0102f8acff02ec",
 ".git/objects/f2/5787c93ad00665f0f797a43ab397f0628a273e": "59e425d1456034072d902c75d18ec75f",
 ".git/objects/f7/5ea93babd34e43899ec71e3602bcf2f7511987": "50ca272790d6f00cd0293fd24b442836",
 ".git/objects/f7/c6c11030a8eed8a666feb70420af1929fcbf16": "9194e03cbd5ac213a7f346f3df67979c",
 ".git/objects/f8/ad40b72c353fcb3425690c78bbc32680b6a7e0": "97984f42fa113c922821048fa9879078",
-".git/refs/heads/master": "ebd06aaa19db4dd90f8e32d99bf68bfd",
-".git/refs/remotes/origin/master": "ebd06aaa19db4dd90f8e32d99bf68bfd",
-"assets/AssetManifest.json": "8bed9c4d6214eba5224d81618aa12b26",
+".git/refs/heads/master": "165b64586c131d0bf88091b56ee6280b",
+".git/refs/remotes/origin/master": "165b64586c131d0bf88091b56ee6280b",
+"assets/AssetManifest.json": "1e0fdef46bdf045656da5bc623dca564",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
-"assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
+"assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
 "assets/img/code.svg": "2674344054f420405633ff475cf86826",
+"assets/img/english.svg": "e5564902e2642c5e6e2e98e68a7d41f5",
 "assets/img/github.svg": "567e5d3d4b2dad49c4c6c50d7f203171",
 "assets/img/how.svg": "b58796375c832b984fb4101eb1302c10",
 "assets/img/info.svg": "4dac6c6a54af43af4c48a0bbacbfd59a",
 "assets/img/information.svg": "a450706d0f7ed38632278cda8c51f3d3",
 "assets/img/queen.svg": "24dcd8a43f961d0fcc31baa88e59c7d2",
 "assets/img/rules.svg": "3c4c36966d597ca1ed68ffba1a568069",
-"assets/NOTICES": "e104666bda624f63272ec0c2d0f71ed8",
+"assets/img/spanish.svg": "36938bbe277961386e7e309dcb30cbd8",
+"assets/NOTICES": "2cc700085472de96b7e88aa3c0c8dde6",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
+"canvaskit/canvaskit.js": "43fa9e17039a625450b6aba93baf521e",
+"canvaskit/canvaskit.wasm": "04ed3c745ff1dee16504be01f9623498",
+"canvaskit/profiling/canvaskit.js": "f3bfccc993a1e0bfdd3440af60d99df4",
+"canvaskit/profiling/canvaskit.wasm": "a9610cf39260f60fbe7524a785c66101",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
-"favicon.svg": "f64fe5de5188a1f7408b08009fec72f4",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "c1325276f3d32acdd8395303ce13c857",
-"/": "c1325276f3d32acdd8395303ce13c857",
-"main.dart.js": "26f1208c0b313c0e0c01e0be1b1e9763",
+"index.html": "19172ed8d2fbc85d6999835691fbded0",
+"/": "19172ed8d2fbc85d6999835691fbded0",
+"main.dart.js": "c206fe3f39193a3ee58ab57b40bdd7fe",
 "manifest.json": "20101aaf354164fe28444c2012849ba8",
-"version.json": "b11c82af301f77dbbe6b72724b7b788e"
+"version.json": "1a39475e3b1e69eead39c78fc6723e51"
 };
 
 // The application shell files that are downloaded before a service worker can
@@ -129,7 +140,7 @@ self.addEventListener("install", (event) => {
   return event.waitUntil(
     caches.open(TEMP).then((cache) => {
       return cache.addAll(
-        CORE.map((value) => new Request(value + '?revision=' + RESOURCES[value], {'cache': 'reload'})));
+        CORE.map((value) => new Request(value, {'cache': 'reload'})));
     })
   );
 });
